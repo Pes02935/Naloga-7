@@ -1,2 +1,5 @@
 # Zgodovina sprememb
-## A
+## Spremembe
+- Dodan index.html
+- Dodan kontakt.html
+- Dodani testni scenariji
